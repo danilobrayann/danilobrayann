@@ -9,7 +9,7 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
