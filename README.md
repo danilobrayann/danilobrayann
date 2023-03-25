@@ -6,13 +6,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+DANILO+SOUZA;)](https://git.io/typing-svg)
-
+<br>
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayan_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=shades-of-purple"/>
 </div>
-
+<br>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
