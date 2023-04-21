@@ -6,7 +6,7 @@
 -
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+DANILO+SOUZA;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+DANILO+SOUZA;)](https://git.io/typing-svg)
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -29,4 +29,4 @@
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/npm/types/ts?label=%20&logoColor=0D1117&style=for-the-badge)&nbsp;
+![Typescript](https://img.shields.io/npm/types/ts?color=black&label=%20&logo=typescript&style=for-the-badge)&nbsp;
