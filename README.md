@@ -9,8 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+DANILO+SOUZA;)](https://git.io/typing-svg)
 <div>
   
-  <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img align="right" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <br>
 
