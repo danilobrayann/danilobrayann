@@ -30,5 +30,5 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/npm/types/ts?color=black&label=%20&logo=typescript&style=for-the-badge)&nbsp;
-![Nodejs](<i class="devicon-nodejs-plain-wordmark colored"></i>)&nbsp;
+<i class="devicon-nodejs-plain-wordmark colored">
 
