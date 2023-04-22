@@ -5,6 +5,9 @@
 - 🌱 Desenvolvedor Full Stack
 -
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilobrayann&bg_color=1a1a1a&color=44ff00&line=9900ff&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
   
