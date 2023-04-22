@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=+MY+NAME+is+DANILO+AM+Full+Stack+Developer;)](https://git.io/typing-svg)
 <div>
   
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=00FA9A&include_all_commits=true&count_private=true"/>
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <br>
@@ -30,5 +30,5 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/npm/types/ts?color=black&label=%20&logo=typescript&style=for-the-badge)&nbsp;
-<i class="devicon-nodejs-plain-wordmark colored">
+
 
