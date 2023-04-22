@@ -15,7 +15,6 @@
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilobrayann&bg_color=1a1a1a&color=44ff00&line=9900ff&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
