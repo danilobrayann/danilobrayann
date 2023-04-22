@@ -5,9 +5,6 @@
 - 🌱 Desenvolvedor Full Stack
 -
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilobrayann&bg_color=1a1a1a&color=44ff00&line=9900ff&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
   
@@ -35,6 +32,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/npm/types/ts?color=black&label=%20&logo=typescript&style=for-the-badge)&nbsp;
-<i class="devicon-nodejs-plain-wordmark colored">
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilobrayann&bg_color=1a1a1a&color=44ff00&line=9900ff&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
