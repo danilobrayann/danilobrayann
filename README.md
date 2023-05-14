@@ -15,10 +15,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=+MY+NAME+is+DANILO+AM+Full+Stack+Developer;)](https://git.io/typing-svg)
 <div>
   
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=16&theme=transparent"/>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann
+&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FF0000&text_color=FFFF00&bg_color=0000CD" alt="danilobrayann github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&hide_border=true&title_color=00FA9A&text_color=FFFF00&bg_color=0000CD" />
 </div>
-<br>
+
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
