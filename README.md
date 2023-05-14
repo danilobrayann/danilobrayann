@@ -16,8 +16,7 @@
 <div>
   
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann
-&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FF0000&text_color=FFFF00&bg_color=0000CD" alt="danilobrayann github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FF0000&text_color=FFFF00&bg_color=0000CD" alt="danilobrayann github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&hide_border=true&title_color=00FA9A&text_color=FFFF00&bg_color=0000CD" />
 </div>
 
