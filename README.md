@@ -21,10 +21,12 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=+MY+NAME+is+DANILO+AM+Full+Stack+Developer;)](https://git.io/typing-svg)
 <div>
   
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=FF0000&text_color=FFFF00&bg_color=0000CD" alt="danilobrayann github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&hide_border=true&title_color=00FA9A&text_color=FFFF00&bg_color=0000CD" />
+  <div align="center">
+  <a href="https://github.com/danilobrayann">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width="378px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=aura"/>
 </div>
+  
 
 
 ### Main skills:
