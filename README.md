@@ -21,11 +21,10 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=+MY+NAME+is+DANILO+AM+Full+Stack+Developer;)](https://git.io/typing-svg)
 <div>
   
-  
   <div align="center">
   <a href="https://github.com/danilobrayann">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
     
 
@@ -56,5 +55,4 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilobrayann&bg_color=1a1a1a&color=44ff00&line=9900ff&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
