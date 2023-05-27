@@ -24,7 +24,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
   <div align="center">
   <a href="https://github.com/danilobrayann">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=midnight-transparent"/>
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=transparent"/>
 </div>
     
 
