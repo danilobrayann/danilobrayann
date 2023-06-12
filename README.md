@@ -32,7 +32,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,boostrap,git,github,css,scss,html,node />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,boostrap,git,github,css,scss,html,node"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,gitkraken,figma,ps />
+    <img src="https://skillicons.dev/icons?i=vscode,gitkraken,figma,ps" />
   </a>
 </p>
 
@@ -48,9 +48,11 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,node,mongodb,postgresql />
+    <img src="https://skillicons.dev/icons?i=php,node,mongodb,postgresql" />
   </a>
 </p>
+
+
 
 
 
