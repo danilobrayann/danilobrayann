@@ -28,27 +28,29 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 </div>
     
 
-### Main skills:
+<h1 align="center">### Main skills:<h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,boostrap,git,github,css,scss,html,node"/>
+    <img src="https://skillicons.dev/icons?i=react,ts,js,bootrap,git,github,css,scss,html,nodejs"/>
   </a>
 </p>
 
-### Tools:
+<h1 align="center">### Tools:<h1>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,gitkraken,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps" />
   </a>
 </p>
 
-### Studying in this moment:
+<h1 align="center">### Studying in this moment:<h1>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,node,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,postgresql" />
   </a>
 </p>
 
