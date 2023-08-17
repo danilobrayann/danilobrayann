@@ -45,7 +45,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
   </a>
 </p>
 
-### Studying in this moment Mobile
+<h1 align="center">### Studying in this moment Mobile:<h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
