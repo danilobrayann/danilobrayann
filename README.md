@@ -45,6 +45,15 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
   </a>
 </p>
 
+### Studying in this moment Mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart"/>
+  </a>
+</p>
+
+
 <h1 align="center">### Studying in this moment:<h1>
 
 
