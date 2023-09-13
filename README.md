@@ -32,7 +32,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,git,github,css,scss,html,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,git,github,css,scss,html,nodejs,styledcomponents"/>
   </a>
 </p>
 
