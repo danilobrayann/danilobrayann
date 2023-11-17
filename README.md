@@ -59,7 +59,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,postgresql,docker" />
   </a>
 </p>
 
