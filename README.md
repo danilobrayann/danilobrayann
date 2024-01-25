@@ -18,7 +18,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+MY+NAME+is+DANILO+AM+Full+Stack+Developer;)](https://git.io/typing-svg)
 <div>
