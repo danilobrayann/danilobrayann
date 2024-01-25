@@ -26,42 +26,130 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobrayann&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobrayann&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
-    
 
-<h1 align="center">### Main skills:<h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,git,github,css,scss,html,nodejs,styledcomponents"/>
+
+
+
+
+####
+<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+
+  <tr>
+     <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular " width="30" height="30" /></a>
+      <br>Angular
+    </td>
+    <td align="center" width="56">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="56">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="56">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+      <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scss " width="30" height="30" /></a>
+      <br>Scss
+    </td>
+      <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=styledcomponents " width="30" height="30" /></a>
+      <br>styledcomponents
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" width="30" height="30"/>
   </a>
-</p>
+      <br>Github
+    </td>
+    <td align="center" width="56"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="56">
+        <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="56">
+        <img src="https://skillicons.dev/icons?i=css" width="30" height="30" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="56">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
 
-<h1 align="center">### Tools:<h1>
+ <tr>
+        <td align="center" width="56">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="30" height="30" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="56">
+        <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VsCode" />
+      <br>VsCode
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+
+<tr>
+    <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma " width="30" height="30" /></a>
+      <br>Figma
+    </td>
+    <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps " width="30" height="30" /></a>
+      <br>photoshop
+    </td>
+      <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio " width="30" height="30" /></a>
+      <br>androidstudio
+    </td>
+      <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux " width="30" height="30" /></a>
+      <br>linux
+    </td>
+</tr>
+
+</table>
+<br><br>
+</table>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,androidstudio,linux" />
-  </a>
-</p>
-
-<h1 align="center">### Studying in this moment Mobile:<h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react"/>
-  </a>
-</p>
+<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
 
 
-<h1 align="center">### Studying in this moment:<h1>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,postgresql,docker,nestjs"/>
-  </a>
-</p>
+
+
+
 
 
 
