@@ -11,6 +11,7 @@ Tenho conhecimento e experiência em diversas linguagens e tecnologias de progra
 Tenho uma abordagem orientada a resultados e sou capaz de transformar ideias em produtos finais de alta qualidade. Além disso, estou sempre aprendendo e me atualizando com as últimas tendências e melhores práticas de desenvolvimento, a fim de fornecer soluções eficientes e escaláveis.
 
 Estou animado com a oportunidade de contribuir para sua equipe de desenvolvimento, trazendo meu entusiasmo, habilidades técnicas e dedicação total ao mundo do código.
+<p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
 <div> 
   <a href="https://www.instagram.com/danilobrayannn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-santos-238089175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
