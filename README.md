@@ -1,12 +1,12 @@
 <p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
-### Olá! Eu sou o DANILO
+ Olá! Eu sou o DANILO
 Apaixonado Por Tecnologia 😍
 🖥Desenvolvedor Full Stack 🚀
 Dedicação Total ao Código
 
 Permita-me apresentar como um desenvolvedor Full Stack apaixonado pela arte do desenvolvimento. Desde que comecei a estudar Análise e Desenvolvimento de Sistemas, descobri uma verdadeira paixão por criar soluções inovadoras e funcionais.
 
-Tenho conhecimento e experiência em diversas linguagens e tecnologias de programação, incluindo HTML, CSS, JavaScript, React, Node.js e APIs. Com minhas habilidades em 🖥desenvolvimento Full Stack🚀, posso trabalhar tanto no lado do cliente quanto no servidor, proporcionando uma experiência completa e fluida para os usuários.
+Tenho conhecimento e experiência em diversas linguagens e tecnologias de programação, incluindo  Angular | API | TypeScript | JavaScript | React.JS | Git | Github | Node Com minhas habilidades em 🖥desenvolvimento Full Stack🚀, posso trabalhar tanto no lado do cliente quanto no servidor, proporcionando uma experiência completa e fluida para os usuários.
 
 Tenho uma abordagem orientada a resultados e sou capaz de transformar ideias em produtos finais de alta qualidade. Além disso, estou sempre aprendendo e me atualizando com as últimas tendências e melhores práticas de desenvolvimento, a fim de fornecer soluções eficientes e escaláveis.
 
