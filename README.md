@@ -68,10 +68,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
     <img src="https://skillicons.dev/icons?i=styledcomponents " width="30" height="30" /></a>
       <br>styledcomponents
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="56">
+     <td align="center" width="56">
        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github" width="30" height="30"/>
   </a>
@@ -85,6 +82,8 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
         <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML5" />
       <br>HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="56">
         <img src="https://skillicons.dev/icons?i=css" width="30" height="30" alt="css" />
       <br>CSS
@@ -93,10 +92,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
         <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" alt="bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-
- <tr>
-        <td align="center" width="56">
+ <td align="center" width="56">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
@@ -114,10 +110,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
- </tr>
-
-<tr>
-    <td align="center" width="56">
+   <td align="center" width="56">
        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma " width="30" height="30" /></a>
       <br>Figma
@@ -132,6 +125,8 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
     <img src="https://skillicons.dev/icons?i=androidstudio " width="30" height="30" /></a>
       <br>androidstudio
     </td>
+  </tr>
+<tr>
       <td align="center" width="56">
        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux " width="30" height="30" /></a>
