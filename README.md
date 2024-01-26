@@ -132,6 +132,11 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
     <img src="https://skillicons.dev/icons?i=linux " width="30" height="30" /></a>
       <br>linux
     </td>
+  <td align="center" width="56">
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=CS " width="30" height="30" /></a>
+      <br>C#
+    </td>
 </tr>
 
 </table>
