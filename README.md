@@ -134,7 +134,7 @@ Estou animado com a oportunidade de contribuir para sua equipe de desenvolviment
     </td>
   <td align="center" width="56">
        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=CS " width="30" height="30" /></a>
+    <img src="https://skillicons.dev/icons?i=cs " width="30" height="30" /></a>
       <br>C#
     </td>
 </tr>
