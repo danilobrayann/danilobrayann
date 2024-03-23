@@ -10,7 +10,7 @@ Allow me to introduce myself as a Full Stack developer passionate about the art 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Software+engineer+Desenvolvedor+Full+Stack+Mobile+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+My+Name+Danilo+Software+engineer+Desenvolvedor+Full+Stack+Mobile+Developer;)](https://git.io/typing-svg)
 <div>
   
   <div align="center">
