@@ -1,16 +1,6 @@
 <p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
- Olá! Eu sou o DANILO
-Apaixonado Por Tecnologia 😍
-🖥Desenvolvedor Full Stack 🚀
-Dedicação Total ao Código
-
-Permita-me apresentar como um desenvolvedor Full Stack apaixonado pela arte do desenvolvimento. Desde que comecei a estudar Análise e Desenvolvimento de Sistemas, descobri uma verdadeira paixão por criar soluções inovadoras e funcionais.
-
-Tenho conhecimento e experiência em diversas linguagens e tecnologias de programação, incluindo  Angular | API | TypeScript | JavaScript | React.JS | Git | Github | Node Com minhas habilidades em 🖥desenvolvimento Full Stack🚀, posso trabalhar tanto no lado do cliente quanto no servidor, proporcionando uma experiência completa e fluida para os usuários.
-
-Tenho uma abordagem orientada a resultados e sou capaz de transformar ideias em produtos finais de alta qualidade. Além disso, estou sempre aprendendo e me atualizando com as últimas tendências e melhores práticas de desenvolvimento, a fim de fornecer soluções eficientes e escaláveis.
-
-Estou animado com a oportunidade de contribuir para sua equipe de desenvolvimento, trazendo meu entusiasmo, habilidades técnicas e dedicação total ao mundo do código.
+Hello! I'm DANILO Passionate about Technology 😍 🖥Full Stack Developer 🚀 Total Dedication to Code
+Allow me to introduce myself as a Full Stack developer passionate about the art of development. Since I started studying Systems Analysis and Development, I discovered a true passion for creating innovative and functional solutions.
 <p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
 <div> 
   <a href="https://www.instagram.com/danilobrayannn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
