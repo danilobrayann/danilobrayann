@@ -19,8 +19,10 @@
 <div><br />
 
 ## My Stack
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,html,css,js,tailwind,vite,figma,vscode,git,github,androidstudio,postgres,&theme=dark" />
+<h3>💻Front-end:</h3>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,html,css,js,tailwind,vite,figma,vscode,git,github,androidstudio,&theme=dark" />
+<h3>⚙️Backend and database: </h3>
+<img src="https://skillicons.dev/icons?i=postgres,nodejs,jest,docker,&theme=dark" />
 
 ## About me
 
