@@ -23,6 +23,8 @@
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,html,css,js,tailwind,vite,figma,vscode,git,github,androidstudio,&theme=dark" />
 <h3>⚙️Backend and database: </h3>
 <img src="https://skillicons.dev/icons?i=postgres,nodejs,jest,docker,&theme=dark" />
+<h3>🧑‍💻Operational system </h3>
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 
 ## About me
 
