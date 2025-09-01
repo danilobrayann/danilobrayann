@@ -5,8 +5,10 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-danilobrayann.vercel.app/)
 <img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
 <br/>
+<img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 <img width=100%  src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*8UpeC1Gui7BjnSgAphKaZg.gif"/>
 <img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
+
 
 <div align='center'>
 
@@ -33,7 +35,7 @@
 <h3>🧑‍💻Operational system </h3>
 <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 
-<img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+
 
 ## About me
 
