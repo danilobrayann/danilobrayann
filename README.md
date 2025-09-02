@@ -5,13 +5,10 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-danilobrayann.vercel.app/)
 <img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
 <br/>
-<img width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
-<img width=100%  src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*8UpeC1Gui7BjnSgAphKaZg.gif"/>
-<img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
-
-
 <div align='center'>
-
+<p>🖥️ IT professional with over 5 years of experience across multiple areas, including front-end development, technology education, interface design, system integration, and performance optimization. Strong background in technologies such as React, Next.js, TypeScript, JavaScript, Node.js, HTML, CSS, and SCSS. Skilled in building responsive, interactive, and visually appealing solutions while collaborating closely with designers and back-end teams. In addition to development, experienced in planning and teaching IT courses with a focus on hands-on learning and performance evaluation. Committed to innovation, code quality, and continuous process improvement.</p>
+<img  width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+<img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
 <div align="center">  
   
 
