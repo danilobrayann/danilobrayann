@@ -2,7 +2,7 @@
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosantosdeveloper/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-danilobrayann.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cool-portfolio-new.netlify.app/#home)
 <img src="https://i.ibb.co/Htz1fjC/lineBar.png" width="100%" height="8px"/>
 <br/>
 <div align='center'>
